@@ -96,7 +96,7 @@ Step14. click on debug and simulate using simulation as shown below
   
 
 ## STM 32 CUBE PROGRAM :
-
+```
 
  #include "main.h"
  TIM_HandleTypeDef htim2;
@@ -198,7 +198,7 @@ Step14. click on debug and simulate using simulation as shown below
  }
  #endif
  
-
+```
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 50%
 <img width="981" height="497" alt="image" src="https://github.com/user-attachments/assets/5c1ad27c-1a32-410d-a6f1-61b5c96ae551" />
